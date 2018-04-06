@@ -38,3 +38,9 @@ Podrobnější srovnání pak poskytne pohled na jednotlivé úseky příměstsk
 Dopravu na trati č. 171 na Beroun komplikuje hlavně špatný technický stav, [podle šéfa IDSK]( http://zdopravy.cz/sef-idsk-jsme-velmi-nespokojeni-s-infrastrukturou-trat-na-beroun-je-pred-zhroucenim-7093/) Pavla Procházky je doslova „před zhroucením“.
 
 [Ministerstvo dopravy slibuje]( http://www.ceskenoviny.cz/zpravy/trat-z-prahy-do-berouna-ma-slouzit-primestske-doprave/1531936), že bude opravená do roku 2025, zůstane jí ale regionální charakter. Dálkové a vysokorychlostní vlaky budou jezdit jinudy, jednou z možností je stavba tunelu ze Smíchova do Berouna, nebo do Hořovic.
+
+Obliba příměstských vlaků navíc pořád stoupá, od roku 2015 strmě narostl zájem o cesty na tratích Praha - Říčany, Praha - Úvaly i Praha - Zeleneč.
+
+![přepravení cestující](http://mhd86.cz/wp-content/uploads/2018/02/graf-pid.png)
+
+_Zdroj: [Ropid](https://pid.cz/) prostředictvím [mhd86.cz](http://mhd86.cz/2018/02/12/pocty-cestujicich-dojizdejicich-do-prahy-vlakem-v-roce-2017/)_
