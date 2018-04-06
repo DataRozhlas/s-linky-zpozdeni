@@ -2,9 +2,9 @@ title: "Zpoždění příměstských vlaků v okolí Prahy? Většinou do 5 minu
 perex: "Necelých 140 tisíc cestujících dojíždí denně do Prahy některým z příměstských vlaků. Ne vždycky dorazí včas. Většina zpoždění se ale vejde do pěti minut."
 published: "9. dubna 2018"
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_clanek_telo_4_3/public/uploader/zabotlam_180406-134304_cib.jpg?itok=3db8JVaC
-coverimg_note: "Foto <a href='#'>ČTK</a>"
+coverimg_note: 'Foto <a target="_blank" href="https://cs.wikipedia.org/wiki/Elektrick%C3%A9_jednotky_451_a_452#/media/File:451059-60_Praha_hlavn%C3%AD_n%C3%A1dra%C5%BE%C3%AD.jpg">PetrS.</a>'
 styles: []
-libraries: [jquery, highcharts] #jquery, jquery-csv, d3, highcharts, datatables
+libraries: [highcharts] #jquery, jquery-csv, d3, highcharts, datatables
 options: [noheader] #wide, noheader (, nopic)
 ---
 <left>
@@ -30,7 +30,7 @@ Obecně pak platí, že největší zpoždění příměstské vlaky nabírají 
 Podrobnější srovnání pak poskytne pohled na jednotlivé úseky příměstských linek, a to v obou směrech. Můžete se tedy podívat, jak konkrétně si vede linka na úseku, kudy každé ráno jezdíte do práce. Historické informace o zpoždění jednotlivých vlaků pak poskytuje aplikace [Babitron]( https://kam.mff.cuni.cz/~babilon/zpmapa).
 
 <wide>
-	<div class="sbox"></div>
+	<div id="sbox"></div>
 	<div id="linky"></div>
 </wide>
 

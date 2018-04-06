@@ -48,7 +48,6 @@ function drawChart(linka) {
     });
 };
 
-$( function() {
     var options = '<select>'
     var linky = Object.keys(hourly)
     
@@ -56,11 +55,11 @@ $( function() {
         options += '<option value="' + linky[li] + '">' + linky[li] + '</option>'
     };
     options += '</select>'
-    $('.sbox').html(options)
-    $('.sbox').change(function(e){
+    document.getElementById('sbox').innerHTML = options;
+    document.getElementById('sbox').addEventListener("change", function(e) {
         drawChart(e.target.value)
-    })
-} );
+    });
+
 
 drawChart('S1: Kolín - Praha Mas.n.')
 })();
