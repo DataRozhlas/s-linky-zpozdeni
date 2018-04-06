@@ -1,7 +1,6 @@
 title: "Zpoždění příměstských vlaků v okolí Prahy? Většinou do 5 minut"
-perex: "Necelých 140 tisíc cestujících dojíždí denně do Prahy některým z příměstských vlaků. Ne vždycky ale dorazí včas. Většina zpoždění se ale vejde do pěti minut."
+perex: "Necelých 140 tisíc cestujících dojíždí denně do Prahy některým z příměstských vlaků. Ne vždycky dorazí včas. Většina zpoždění se ale vejde do pěti minut."
 published: "9. dubna 2018"
-# autoři se zadávají až v redakčním systému
 coverimg: https://www.irozhlas.cz/sites/default/files/styles/zpravy_clanek_telo_4_3/public/uploader/zabotlam_180406-134304_cib.jpg?itok=3db8JVaC
 coverimg_note: "Foto <a href='#'>ČTK</a>"
 styles: []
@@ -16,11 +15,11 @@ options: [noheader] #wide, noheader (, nopic)
 	</p>
 </left>
 
-Pokud častěji jezdíte mezi Prahou a Berounem, jistě jste zažili nejednu mimořádnost. Zdejší koleje mají dokonce vlastní účet na [Twitteru](https://twitter.com/trat171?lang=en), kde se cestující o případných problémech dozví.
+Pokud častěji jezdíte mezi Prahou a Berounem, jistě jste zažili nejednu mimořádnost. Zdejší koleje mají dokonce vlastní účet na [Twitteru](https://twitter.com/trat171), kde se cestující o případných problémech dozví.
 
 Z dat nasbíraných za poslední tři týdny plyne, že příměstská linka S7, která do Berouna jezdí, nabere někde cestě zpoždění poměrně často, jen přibližně 15 procent cest je bez zpoždění. Většinou ale vlak přijede do 5 (60 %), případně do 10 minut (17 % cest). Naopak zpoždění půlhodinových je něco málo přes jedno procento.
 
-Server iROZHLAS.cz po dobu tří týdnů pravidelně stahoval informace o zpoždění všech vlaků, které jsou součástí těch nejvytíženějších linek S pražské integrované dopravy. Šlo o linky S1, S2, S4, S7 a S9, které v běžný pracovní den [přepraví nejvíce cestujících]( http://mhd86.cz/2018/02/12/pocty-cestujicich-dojizdejicich-do-prahy-vlakem-v-roce-2017/). Pro představu, jde o 517 jednotlivých vlaků.
+Server iROZHLAS.cz po dobu tří týdnů pravidelně stahoval informace o zpoždění všech vlaků, které jsou součástí těch nejvytíženějších linek S pražské integrované dopravy. Šlo o linky S1, S2, S4, S7 a S9, které v běžný pracovní den [přepraví nejvíce cestujících](http://mhd86.cz/2018/02/12/pocty-cestujicich-dojizdejicich-do-prahy-vlakem-v-roce-2017/). Pro představu: jde o 517 jednotlivých vlaků.
 
 Obecně pak platí, že největší zpoždění příměstské vlaky nabírají v ranní a odpolední špičce, tedy okolo 8. a 16. hodiny. Kromě berounské S7 se s určitými problémy potýká i S9 mezi Lysou nad Labem a Benešovem u Prahy.
 
@@ -28,7 +27,7 @@ Obecně pak platí, že největší zpoždění příměstské vlaky nabírají 
 	<div id="linky_comp"></div>
 </wide>
 
-Podrobnější srovnání pak poskytne pohled na jednotlivé úseky příměstský linek, a to v obou směrech. Můžete se tedy podívat, jak konkrétně si vede linka na úseku, kudy každé ráno jezdíte do práce. Historické informace o zpoždění jednotlivých vlaků pak poskytuje aplikace [Babitron]( https://kam.mff.cuni.cz/~babilon/zpmapa).
+Podrobnější srovnání pak poskytne pohled na jednotlivé úseky příměstských linek, a to v obou směrech. Můžete se tedy podívat, jak konkrétně si vede linka na úseku, kudy každé ráno jezdíte do práce. Historické informace o zpoždění jednotlivých vlaků pak poskytuje aplikace [Babitron]( https://kam.mff.cuni.cz/~babilon/zpmapa).
 
 <wide>
 	<div class="sbox"></div>
@@ -37,10 +36,10 @@ Podrobnější srovnání pak poskytne pohled na jednotlivé úseky příměstsk
 
 Dopravu na trati č. 171 na Beroun komplikuje hlavně špatný technický stav, [podle šéfa IDSK]( http://zdopravy.cz/sef-idsk-jsme-velmi-nespokojeni-s-infrastrukturou-trat-na-beroun-je-pred-zhroucenim-7093/) Pavla Procházky je doslova „před zhroucením“.
 
-[Ministerstvo dopravy slibuje]( http://www.ceskenoviny.cz/zpravy/trat-z-prahy-do-berouna-ma-slouzit-primestske-doprave/1531936), že bude opravená do roku 2025, zůstane jí ale regionální charakter. Dálkové a vysokorychlostní vlaky budou jezdit jinudy, jednou z možností je stavba tunelu ze Smíchova do Berouna, nebo do Hořovic.
+[Ministerstvo dopravy slibuje](http://www.ceskenoviny.cz/zpravy/trat-z-prahy-do-berouna-ma-slouzit-primestske-doprave/1531936), že bude opravená do roku 2025, zůstane jí ale regionální charakter. Dálkové a vysokorychlostní vlaky budou jezdit jinudy, jednou z možností je stavba tunelu ze Smíchova do Berouna nebo do Hořovic.
 
-Obliba příměstských vlaků navíc pořád stoupá, od roku 2015 strmě narostl zájem o cesty na tratích Praha - Říčany, Praha - Úvaly i Praha - Zeleneč.
+Obliba příměstských vlaků navíc pořád stoupá, od roku 2015 strmě narostl zájem o cesty na tratích Praha – Říčany, Praha – Úvaly i Praha – Zeleneč.
 
-![přepravení cestující](http://mhd86.cz/wp-content/uploads/2018/02/graf-pid.png)
+<img src="http://mhd86.cz/wp-content/uploads/2018/02/graf-pid.png" style="width: 100%">
 
 _Zdroj: [Ropid](https://pid.cz/) prostředictvím [mhd86.cz](http://mhd86.cz/2018/02/12/pocty-cestujicich-dojizdejicich-do-prahy-vlakem-v-roce-2017/)_
